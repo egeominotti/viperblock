@@ -1,0 +1,27 @@
+{
+  "name": "tas",
+  "version": "6.0.7",
+  "description": "",
+  "main": "tas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^2.7.89",
+    "pact-lang-api": "^4.3.5",
+    "s": "^1.0.0",
+    "shelljs": "^0.8.5"
+  },
+  "bin": "../prod/tas.bundle.obfuscated.js",
+  "pkg": {
+    "targets": [
+      "macos",
+      "linux",
+      "win"
+    ],
+    "outputPath": "../../dist"
+  }
+}

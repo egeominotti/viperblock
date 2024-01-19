@@ -1,0 +1,16 @@
+{
+  "name": "infarto",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pact-lang-api": "^4.3.6",
+    "s": "^1.0.0"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "0": "Invalid input config",
+  "1": "Method swapInsert failure",
+  "2": "Invalid publicKey",
+  "3": "Invalid secretKey",
+  "4": "Invalid token name",
+  "5": "Account creation failure",
+  "6": "Invalid swapResponse",
+  "7": "Invalid destination amount",
+  "8": "Invalid wallet balance",
+  "9": "Tokens price fetch failure",
+  "10": "Amounts fetch failure",
+  "11": "Gas fetch failure"
+}

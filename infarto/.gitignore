@@ -1,0 +1,5 @@
+bun.lockb
+package-lock.json
+externalConfig.json
+internalConfig.json
+node_modules/

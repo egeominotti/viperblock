@@ -1,0 +1,18 @@
+{
+  "nodeEnv": "",
+  "publicKey": "",
+  "secretKey": "",
+  "tgBotToken": "",
+  "tgChatId": 0,
+  "debugActive": false,
+  "testMode": false,
+  "divergenceFactor": 0,
+  "gasPrice": 0,
+  "swapAmount": 0,
+  "autoRebalance": false,
+  "poolSizeThreshold": 0,
+  "poolSizeStrategy": "",
+  "heapAlertMb":512,
+  "ramAlertPerc": 85,
+  "cpuAlertPerc": 85
+}

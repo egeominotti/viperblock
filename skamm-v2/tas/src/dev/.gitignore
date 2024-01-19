@@ -1,0 +1,5 @@
+config.json
+divergence-stats.txt
+operations-balance.txt
+operations-log.txt
+*.bak*
