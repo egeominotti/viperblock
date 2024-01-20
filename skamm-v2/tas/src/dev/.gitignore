@@ -3,3 +3,4 @@ divergence-stats.txt
 operations-balance.txt
 operations-log.txt
 *.bak*
+package-lock.json
