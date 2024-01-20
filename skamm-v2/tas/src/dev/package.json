@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ccxt": "^2.7.89",
-    "pact-lang-api": "^4.3.5",
+    "ccxt": "latest",
+    "pact-lang-api": "latest",
     "s": "^1.0.0",
     "shelljs": "^0.8.5"
   },
