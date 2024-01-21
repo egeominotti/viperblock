@@ -80,7 +80,9 @@ async function main() {
             !isEmptyObject(global.prices) &&
             !isEmptyObject(global.amounts) &&
             !isEmptyObject(global.balance);
-
+          console.log(global.prices)
+          console.log(global.amounts)
+          console.log(global.balance)
           if (check) await runTask();
           else global.processManager.busy = false;
 
